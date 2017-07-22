@@ -1,0 +1,1 @@
+caps = "xyz".upcase
